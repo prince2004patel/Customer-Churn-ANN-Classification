@@ -58,3 +58,9 @@ Start the Streamlit app:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Some Screenshots
+
+![Customer Churn ANN Classification](img1.png)
+
+
