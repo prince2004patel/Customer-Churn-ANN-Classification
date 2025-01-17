@@ -1,9 +1,9 @@
 # Customer Churn ANN Classification
 
-## Live Demo:
+## Live Demo :-
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue)](https://customer-churn-ann-classification-by-prince.streamlit.app/)
 
-## Basic Steps
+## Basic Steps :-
 
 ### 1. Forward and Backward Propagation
 
@@ -23,11 +23,11 @@
 - **ReLU (Rectified Linear Unit)**: Introduces non-linearity into the model, helps the network learn complex patterns.
 - **Sigmoid**: Squashes output to a range between 0 and 1, suitable for binary classification.
 
-## Project Overview
+## Project Overview :-
 
 This project classifies customer churn using an Artificial Neural Network (ANN). It takes input features about customers and predicts the probability of churn.
 
-## Setup Instructions
+## Setup Instructions :-
 
 ### 1. Clone the Repository
 
@@ -51,7 +51,7 @@ cd Customer-Churn-ANN-Classification
 pip install -r requirements.txt
 ```
 
-### 3. Run The Application
+### 3. Run The Application :-
 
 Start the Streamlit app:
 
@@ -64,3 +64,4 @@ pip install -r requirements.txt
 ![Customer Churn ANN Classification](img1.png)
 
 
+![Customer Churn ANN Classification](img2.png)
